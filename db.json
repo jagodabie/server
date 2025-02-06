@@ -5,17 +5,16 @@
       "title": "Lorem Ipsum Dolor Sit Amet",
       "description": "Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "category": "Wiedza",
+      "imageUrl": "",
       "date": "2024-10-20",
       "sections": [
         {
           "heading": "Sed ut perspiciatis unde omnis",
-          "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque.",
-          "imageUrl": ""
+          "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque."
         },
         {
           "heading": "Neque porro quisquam est",
-          "content": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?",
-          "imageUrl": ""
+          "content": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?"
         }
       ]
     },
@@ -25,16 +24,15 @@
       "description": "Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "category": "Inspiracje",
       "date": "2024-12-19",
+      "imageUrl": "",
       "sections": [
         {
           "heading": "Duis aute irure dolor in reprehenderit",
-          "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "imageUrl": ""
+          "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         },
         {
           "heading": "Nemo enim ipsam voluptatem",
-          "content": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur?",
-          "imageUrl": ""
+          "content": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur?"
         }
       ]
     },
@@ -44,16 +42,15 @@
       "description": "Incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
       "category": "Wiedza",
       "date": "2025-02-03",
+      "imageUrl": "",
       "sections": [
         {
           "heading": "Lorem ipsum dolor sit amet",
-          "content": "Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "imageUrl": ""
+          "content": "Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
         },
         {
           "heading": "Ut enim ad minima veniam",
-          "content": "Quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?",
-          "imageUrl": ""
+          "content": "Quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?"
         }
       ]
     },
@@ -63,16 +60,15 @@
       "description": "Non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "category": "Inspiracje",
       "date": "2024-09-22",
+      "imageUrl": "",
       "sections": [
         {
           "heading": "Duis aute irure dolor",
-          "content": "Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-          "imageUrl": ""
+          "content": "Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
         },
         {
           "heading": "Sunt in culpa qui officia",
-          "content": "Deserunt mollit anim id est laborum.",
-          "imageUrl": ""
+          "content": "Deserunt mollit anim id est laborum."
         }
       ]
     },
@@ -82,16 +78,15 @@
       "description": "Qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
       "category": "Interpretacje",
       "date": "2025-01-14",
+      "imageUrl": "",
       "sections": [
         {
           "heading": "Ut enim ad minim veniam",
-          "content": "Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-          "imageUrl": ""
+          "content": "Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
           "heading": "Duis aute irure dolor in reprehenderit",
-          "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-          "imageUrl": ""
+          "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         }
       ]
     }
