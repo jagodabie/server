@@ -11,7 +11,7 @@
         {
           "heading": "Lorem ipsum",
           "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
-        },
+        }
       ]
     },
     {
@@ -25,10 +25,6 @@
         {
           "heading": "Duis aute irure dolor in reprehenderit",
           "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-        },
-        {
-          "heading": "Nemo enim ipsam voluptatem",
-          "content": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur?"
         }
       ]
     },
@@ -43,10 +39,6 @@
         {
           "heading": "Lorem ipsum dolor sit amet",
           "content": "Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        },
-        {
-          "heading": "Ut enim ad minima veniam",
-          "content": "Quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?"
         }
       ]
     },
